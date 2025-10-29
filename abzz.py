@@ -3,6 +3,7 @@ import subprocess
 import sys
 import multiprocessing
 import time
+import random
 
 def print_menu():
     """Display the menu options."""
